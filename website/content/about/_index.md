@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: 'https://wizardly-kowalevski-1a0ec7.netlify.com/notre-dame-sky.jpg'
+featured_image: 'https://wizardly-kowalevski-1a0ec7.netlify.com/nd-night.jpg'
 menu:
   main: {}
 ---
