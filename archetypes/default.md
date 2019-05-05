@@ -1,5 +1,5 @@
 +++
-title =  "{{ Ananke | title }}"
+title =  Ananke
 date = {{ .Date }}
 tags = []
 featured_image = ""
