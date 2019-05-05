@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseurl = "/"
+baseurl = "https://wizardly-kowalevski-1a0ec7.netlify.com/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
