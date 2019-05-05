@@ -2,10 +2,13 @@
 title: "Ananke: a Hugo Theme"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "The last theme you'll ever need. Maybe."
+
 menu:
-  main: {}
-  title: Home
-  url = /https://wizardly-kowalevski-1a0ec7.netlify.com/
+  main:
+  - identifier: home
+    name: Home
+    title: Home
+    url: https://wizardly-kowalevski-1a0ec7.netlify.com/
 ​---
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
