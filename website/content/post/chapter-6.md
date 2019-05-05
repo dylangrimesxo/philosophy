@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Esmeralda"
-featured_image: "/images/esmeralda.jpg"
+featured_image: "https://wizardly-kowalevski-1a0ec7.netlify.com/images/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 ---
