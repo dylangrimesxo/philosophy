@@ -9,6 +9,5 @@ menu:
     name: Home
     title: Home
     url: https://wizardly-kowalevski-1a0ec7.netlify.com/
-​---
 ---
 Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
