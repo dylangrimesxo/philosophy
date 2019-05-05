@@ -2,6 +2,7 @@
 {{ with $script.js }}
   <script src="{{ relURL (printf "%s%s" "dist/" .) }}"></script>
 {{ end }}
+
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
 <script>
@@ -14,6 +15,10 @@ window.cookieconsent.initialise({
     "button": {
       "background": "#f1d600"
     }
+  },
+  "theme": "edgeless",
+  "content": {
+    "href": "/privacy"
   }
 })});
 </script>
