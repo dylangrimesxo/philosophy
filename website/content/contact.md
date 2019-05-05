@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "https://wizardly-kowalevski-1a0ec7.netlify.com/images/notre-dame-paris.jpg"
+featured_image: 'https://wizardly-kowalevski-1a0ec7.netlify.com/images/notre-dame-paris.jpg'
 omit_header_text: true
 description: We'd love to hear from you
 type: page
