@@ -4,4 +4,6 @@ date = {{ .Date }}
 tags = []
 featured_image = ""
 description = ""
+menu:
+  main: {Home}
 +++
