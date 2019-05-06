@@ -1,7 +1,7 @@
 [build]
   command = "hugo --themesDir ../../"
-  base    = "exampleSite"
-  publish = "exampleSite/public"
+  base    = "themes/ananke/exampleSite"
+  publish = "themes/ananke/exampleSite/public"
 
 [build.environment]
   HUGO_THEME = "repo"
@@ -10,3 +10,4 @@
 
 [context.production.environment]
   HUGO_ENV = "production"
+
