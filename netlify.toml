@@ -1,0 +1,15 @@
+[build]
+publish = "exampleSite/public"
+command = """hugo \
+  --source exampleSite \
+  --config exampleSite/config.toml \
+  --themesDir ../.. \
+  --theme repo \
+  --baseURL https://wizardly-kowalevski-1a0ec7.netlify.com"""
+
+[build.environment]
+  HUGO_VERSION = "0.55.2"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"
