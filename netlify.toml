@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --themesDir ../../"
+  command = "hugo"
   base    = "themes/ananke/exampleSite"
   publish = "themes/ananke/exampleSite/public"
 
